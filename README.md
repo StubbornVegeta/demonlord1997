@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-|||
-|:--:|:--:|
-|![vegeta](https://github-readme-stats.vercel.app/api/top-langs/?username=demonlord1997&layout=compact&hide=html)|![vegeta](https://github-readme-stats.vercel.app/api?username=demonlord1997&show_icons=true)|
+
+![vegeta](https://github-readme-stats.vercel.app/api/top-langs/?username=demonlord1997&layout=compact&hide=html)
+
+
+---
+
+![vegeta](https://github-readme-stats.vercel.app/api?username=demonlord1997&show_icons=true)
