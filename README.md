@@ -1,4 +1,5 @@
-### Stubborn Vegeta 👋
+### Stubborn Vegeta <img src="https://visitor-badge.glitch.me/badge?page_id=demonlord1997"/>
+
 
 - 🌱 I’m currently learning: python, vim script, LaTeX
 
