@@ -6,7 +6,7 @@
 |:---------------------------------------------------------------|:--------------------------------------------------------------------------------------|
 | [pycomment](https://github.com/demonlord1997/pycomment )       | Generate docstring including inputed parameters, returned variables, and their types for python. |
 | [markdown-org](https://github.com/demonlord1997/markdown-org ) | Run code block in markdown                                                            |
-| [efig](https://github.com/demonlord1997/efig )                 | Automatic extract all images from pdf.                                                |
+| [efig](https://github.com/demonlord1997/efig )                 | Automaticly extract all images from pdf.                                                |
 | [pdf2img](https://github.com/demonlord1997/pdf2img )           | Convert pdf to images.                                                                |
 | [neurovirus](https://github.com/demonlord1997/neurovirus )     | Visualization of neural network structure.                                            |
 
