@@ -1,6 +1,6 @@
 ### Stubborn Vegeta <img src="https://visitor-badge.glitch.me/badge?page_id=demonlord1997"/>
 
-<img src="./StubbornVegeta/github-star.svg" alt="github-star" height="2%" width="2%" /> **Repository**
+<img src="./StubbornVegeta/github-star.svg" alt="github-star" height="16pt" width="16pt" /> **Repository**
 
 | Name                                                           | Description                                                                           |
 |:---------------------------------------------------------------|:--------------------------------------------------------------------------------------|
@@ -10,7 +10,7 @@
 | [pdf2img](https://github.com/demonlord1997/pdf2img )           | Convert pdf to images.                                                                |
 | [neurovirus](https://github.com/demonlord1997/neurovirus )     | Visualization of neural network structure.                                            |
 
-<img src="./StubbornVegeta/settings.svg" alt="settings" height="2%" width="2%" /> **Configures**
+<img src="./StubbornVegeta/settings.svg" alt="settings" height="16pt" width="16pt" /> **Configures**
 
 | Name                                                          | Description                                    |
 |:--------------------------------------------------------------|:-----------------------------------------------|
