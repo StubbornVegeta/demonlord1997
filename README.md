@@ -25,4 +25,4 @@
 
 | Languages                                                                                                        | Status                                                                                       |
 |------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| ![vegeta](https://github-readme-stats.vercel.app/api/top-langs/?username=demonlord1997&hide=html&theme=dracula) | ![vegeta](https://github-readme-stats.vercel.app/api?username=demonlord1997&show_icons=true&theme=dracula) |
+| ![vegeta](https://github-readme-stats.vercel.app/api/top-langs/?username=demonlord1997&layout=compact&langs_count=8&hide=html&theme=dracula) | ![vegeta](https://github-readme-stats.vercel.app/api?username=demonlord1997&show_icons=true&theme=dracula) |
