@@ -9,7 +9,7 @@
 | [efig](https://github.com/demonlord1997/efig )                      | Automaticly extract all images from pdf.                                                         |
 | [pdf2img](https://github.com/demonlord1997/pdf2img )                | Convert pdf to images.                                                                           |
 | [neurovirus](https://github.com/demonlord1997/neurovirus )          | Visualization of neural network structure.                                                       |
-| [dashboard-shell](https://github.com/demonlord1997/dashboard-shell) | terminal dashboard                                                                               |
+| [dashboard-shell](https://github.com/demonlord1997/dashboard-shell) | Terminal dashboard                                                                               |
 | [PlotNeuralNet](https://github.com/demonlord1997/PlotNeuralNet)     | Visualization of neural network structure.                                                       |
 
 <img src="./StubbornVegeta/settings.svg" alt="settings" height="16pt" width="16pt" /> **Configures**
@@ -23,6 +23,6 @@
 
 ---
 
-| Languages                                                                                                        | Status                                                                                       |
+| Languages                                                                                                        | Stats                                                                                       |
 |------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
 | ![vegeta](https://github-readme-stats.vercel.app/api/top-langs/?username=demonlord1997&layout=compact&langs_count=8&hide=html&theme=dracula) | ![vegeta](https://github-readme-stats.vercel.app/api?username=demonlord1997&show_icons=true&theme=dracula) |
