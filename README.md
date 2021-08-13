@@ -2,13 +2,15 @@
 
 <img src="./StubbornVegeta/github-star.svg" alt="github-star" height="16pt" width="16pt" /> **Repository**
 
-| Name                                                           | Description                                                                           |
-|:---------------------------------------------------------------|:--------------------------------------------------------------------------------------|
-| [pycomment](https://github.com/demonlord1997/pycomment )       | Generate docstring including inputed parameters, returned variables, and their types for python. |
-| [markdown-org](https://github.com/demonlord1997/markdown-org ) | Run code blocks in markdown.                                                            |
-| [efig](https://github.com/demonlord1997/efig )                 | Automaticly extract all images from pdf.                                                |
-| [pdf2img](https://github.com/demonlord1997/pdf2img )           | Convert pdf to images.                                                                |
-| [neurovirus](https://github.com/demonlord1997/neurovirus )     | Visualization of neural network structure.                                            |
+| Name                                                                | Description                                                                                      |
+|:--------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------|
+| [pycomment](https://github.com/demonlord1997/pycomment )            | Generate docstring including inputed parameters, returned variables, and their types for python. |
+| [markdown-org](https://github.com/demonlord1997/markdown-org )      | Run code blocks in markdown.                                                                     |
+| [efig](https://github.com/demonlord1997/efig )                      | Automaticly extract all images from pdf.                                                         |
+| [pdf2img](https://github.com/demonlord1997/pdf2img )                | Convert pdf to images.                                                                           |
+| [neurovirus](https://github.com/demonlord1997/neurovirus )          | Visualization of neural network structure.                                                       |
+| [dashboard-shell](https://github.com/demonlord1997/dashboard-shell) | terminal dashboard                                                                               |
+| [PlotNeuralNet](https://github.com/demonlord1997/PlotNeuralNet)     | Visualization of neural network structure.                                                       |
 
 <img src="./StubbornVegeta/settings.svg" alt="settings" height="16pt" width="16pt" /> **Configures**
 
